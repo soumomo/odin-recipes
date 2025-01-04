@@ -4,9 +4,9 @@ Welcome to the Odin Recipes project! This repository contains delicious recipes 
 
 ## Recipes
 
-1. [Lasagna](lasagna.md)
-2. [Biriyani](biriyani.md)
-3. [Aloo Poha](aloo_poha.md)
+1. [Lasagna]
+2. [Biriyani]
+3. [Aloo Poha]
 
 Feel free to explore and enjoy these recipes. Happy cooking!
 
