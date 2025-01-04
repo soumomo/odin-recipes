@@ -1,50 +1,25 @@
 # Odin Recipes
 
-Welcome to the Odin Recipes project! This project is part of The Odin Project curriculum and is designed to help you practice your HTML and CSS skills by creating a simple recipe website.
+Welcome to the Odin Recipes project! This repository contains delicious recipes for you to try out. Below are the recipes included in this project:
 
-## Project Structure
+## Recipes
 
-```
-/odin-recipes
-├── index.html
-├── recipes
-│   ├── recipe1.html
-│   ├── recipe2.html
-│   └── recipe3.html
-└── README.md
-```
+1. [Lasagna](lasagna.md)
+2. [Biriyani](biriyani.md)
+3. [Aloo Poha](aloo_poha.md)
 
-## Features
+Feel free to explore and enjoy these recipes. Happy cooking!
 
-- A main index page that links to individual recipe pages.
-- Each recipe page includes:
-    - A title
-    - An image of the dish
-    - A list of ingredients
-    - Step-by-step cooking instructions
+## How to Use
 
-## Getting Started
-
-1. Clone the repository:
-     ```bash
-     git clone https://github.com/yourusername/odin-recipes.git
-     ```
-2. Navigate to the project directory:
-     ```bash
-     cd odin-recipes
-     ```
-3. Open `index.html` in your web browser to view the main page.
+1. Clone the repository to your local machine.
+2. Navigate to the recipe you want to try.
+3. Follow the instructions in the recipe file.
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+If you have a recipe you'd like to add, please fork the repository, add your recipe, and submit a pull request.
 
 ## License
 
 This project is licensed under the MIT License.
-
-## Acknowledgements
-
-- [The Odin Project](https://www.theodinproject.com) for providing the curriculum and inspiration for this project.
-
-Happy cooking!
