@@ -1,0 +1,42 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+    margin:auto;
+    padding:0;
+    background-color: lightyellow;
+    color:#333
+}
+
+h1,h2 {
+    color:black;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color:red;
+    font-weight: bold  ;
+}
+
+p {
+    color: purple;
+}
+
+#index {
+    text-align: center;
+    color: red;
+    list-style-type: square;
+    padding-left:20px;
+    font-weight: bold;
+    
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+strong {
+    font-weight: bold;
+}
